@@ -1,0 +1,33 @@
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.csprojResolveAssemblyReference.cache
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.anaForm.resources
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.Properties.Resources.resources
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.csproj.GenerateResource.Cache
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.csproj.CoreCompileInputs.cache
+c:\users\kemal\source\repos\SBox\SBox\bin\Debug\SBox.exe.config
+c:\users\kemal\source\repos\SBox\SBox\bin\Debug\SBox.exe
+c:\users\kemal\source\repos\SBox\SBox\bin\Debug\SBox.pdb
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.exe
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.pdb
+c:\users\kemal\source\repos\SBox\SBox\obj\Debug\SBox.TekVeriler.resources
+C:\Users\Kemal\Desktop\SBox\SBox\bin\Debug\SBox.exe.config
+C:\Users\Kemal\Desktop\SBox\SBox\bin\Debug\SBox.exe
+C:\Users\Kemal\Desktop\SBox\SBox\bin\Debug\SBox.pdb
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.csprojResolveAssemblyReference.cache
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.anaForm.resources
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.Properties.Resources.resources
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.TekVeriler.resources
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.csproj.GenerateResource.Cache
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.exe
+C:\Users\Kemal\Desktop\SBox\SBox\obj\Debug\SBox.pdb
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\bin\Debug\SBox.exe.config
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\bin\Debug\SBox.exe
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\bin\Debug\SBox.pdb
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.csprojAssemblyReference.cache
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.anaForm.resources
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.Properties.Resources.resources
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.TekVeriler.resources
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.csproj.GenerateResource.cache
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.csproj.CoreCompileInputs.cache
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.exe
+D:\Ders\Üniversite 2-2.Dönem\SBox Genel\SBox\SBox\obj\Debug\SBox.pdb

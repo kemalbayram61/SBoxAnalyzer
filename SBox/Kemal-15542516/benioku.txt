@@ -1,0 +1,7 @@
+burada yer alan 'S.txt' dosyasýndaki rakamlar dizisini eðer programdaki textboxa yapýþtýrýrsanýz
+veya ayný formatta farklý bir diziyi yapýþtýrýrsanýz diziyi al deyince program o diziyi yorumluyor
+ve istediðim tipe dönüþtürüyor ve sonra aktif olan butonlarda istediðimiz þeklini alabiliriz
+þu anda farklý girmelerde hata verebilir(ör: fazla parantez koyma vs.) bunlarýn hepsi düzeltilebilir
+su anda tam olarak mantýðýný bilmediðim için bu kadarý çalýþýyor...
+Teþekkürler....
+15542516-Kemal-Bayram 

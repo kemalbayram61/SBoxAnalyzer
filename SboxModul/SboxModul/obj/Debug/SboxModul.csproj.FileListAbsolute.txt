@@ -1,0 +1,14 @@
+C:\Users\Kemal\source\repos\SboxModul\SboxModul\bin\Debug\SboxModul.exe.config
+C:\Users\Kemal\source\repos\SboxModul\SboxModul\bin\Debug\SboxModul.exe
+C:\Users\Kemal\source\repos\SboxModul\SboxModul\bin\Debug\SboxModul.pdb
+C:\Users\Kemal\source\repos\SboxModul\SboxModul\obj\Debug\SboxModul.csprojResolveAssemblyReference.cache
+C:\Users\Kemal\source\repos\SboxModul\SboxModul\obj\Debug\SboxModul.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\source\repos\SboxModul\SboxModul\obj\Debug\SboxModul.exe
+C:\Users\Kemal\source\repos\SboxModul\SboxModul\obj\Debug\SboxModul.pdb
+C:\Users\Kemal\Desktop\SboxModul\SboxModul\bin\Debug\SboxModul.exe.config
+C:\Users\Kemal\Desktop\SboxModul\SboxModul\bin\Debug\SboxModul.exe
+C:\Users\Kemal\Desktop\SboxModul\SboxModul\bin\Debug\SboxModul.pdb
+C:\Users\Kemal\Desktop\SboxModul\SboxModul\obj\Debug\SboxModul.csprojResolveAssemblyReference.cache
+C:\Users\Kemal\Desktop\SboxModul\SboxModul\obj\Debug\SboxModul.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\Desktop\SboxModul\SboxModul\obj\Debug\SboxModul.exe
+C:\Users\Kemal\Desktop\SboxModul\SboxModul\obj\Debug\SboxModul.pdb
